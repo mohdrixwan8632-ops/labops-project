@@ -1,0 +1,10 @@
+=== SHA256 CHECK ===
+install.sh: FAILED
+sha256sum: WARNING: 1 computed checksum did NOT match
+=== GPG CHECK ===
+gpg: Signature made Thu Nov 19 19:47:01 2026 UTC
+gpg:                using EDDSA key 36B64DFCE6241AB6B7F3793B42E745C274279C4C
+gpg: checking the trustdb
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+gpg: Good signature from "LabOps Release <release@labops.local>" [ultimate]

@@ -1,0 +1,15 @@
+Thu Nov 19 19:32:04 UTC 2026
+CONTAINER ID   IMAGE                       COMMAND            CREATED        STATUS                    PORTS                      NAMES
+d1b2caad795d   labops-project-ssh-server   "/entrypoint.sh"   25 hours ago   Up 25 hours               127.0.0.1:2222->2222/tcp   ssh_lab
+827001b7909e   hello-world                 "/hello"           25 hours ago   Exited (0) 25 hours ago                              eloquent_mcnulty
+total 48
+drwxr-xr-x 4 dell dell  4096 Nov 18 18:38 .
+drwxr-x--- 9 dell dell  4096 Nov 19 19:06 ..
+-rwxr-xr-x 1 dell dell   558 Nov 18 18:32 Dockerfile
+-rwxr-xr-x 1 dell dell 10914 Nov 18 18:32 README.md
+drwxr-xr-x 6 dell dell  4096 Nov 18 18:32 config
+-rwxr-xr-x 1 dell dell   812 Nov 18 18:32 create_users.sh
+-rwxr-xr-x 1 dell dell   193 Nov 18 18:32 docker-compose.yml
+-rwxr-xr-x 1 dell dell    98 Nov 18 18:32 entrypoint.sh
+drwxr-xr-x 2 dell dell  4096 Nov 18 18:38 evidence
+-rwxr-xr-x 1 dell dell   198 Nov 18 18:32 passwords.txt

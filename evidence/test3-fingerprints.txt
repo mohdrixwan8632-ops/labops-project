@@ -1,0 +1,10 @@
+pub   ed25519 2026-11-19 [SC]
+      27D7 570B 5505 DC79 822C  17E1 412C AEE3 1C80 763B
+uid           [ultimate] LabOps Team <team@labops.local>
+sub   cv25519 2026-11-19 [E]
+
+pub   ed25519 2026-11-19 [SC]
+      CC69 6667 7E3C 3641 5EBF  3DC4 AB20 5461 4BF4 20DE
+uid           [ultimate] LabOps Team <team@labops.local>
+sub   cv25519 2026-11-19 [E]
+
